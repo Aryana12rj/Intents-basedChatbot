@@ -1,0 +1,8 @@
+# Requirements
+
+Flask
+numpy
+pandas
+scikit-learn
+nltk
+requests
